@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-sse",
+  "name": "@irreal/nestjs-sse",
   "version": "1.0.2",
   "description": "Middleware for Nest.js to broadcast Server-Sent Events (SSE)",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serkyron/nestjs-sse.git"
+    "url": "git+https://github.com/irreal/nestjs-sse.git"
   },
   "keywords": [
     "nest.js",
@@ -25,9 +25,9 @@
   "author": "serkyron",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/serkyron/nestjs-sse/issues"
+    "url": "https://github.com/irreal/nestjs-sse/issues"
   },
-  "homepage": "https://github.com/serkyron/nestjs-sse#readme",
+  "homepage": "https://github.com/irreal/nestjs-sse#readme",
   "devDependencies": {
     "@types/node": "^12.7.12",
     "tslint": "^5.19.0",
